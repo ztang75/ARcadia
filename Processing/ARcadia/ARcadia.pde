@@ -62,7 +62,7 @@ void setup() {
   windmillImg= loadImage("/picture/WINDMILL.png"); // 风车
   scrubberImg= loadImage("/picture/toxinScrubber.png"); //毒素清洁
   greenhouseImg= loadImage("/picture/greenhouse.png"); //温室
-  calcifierImg= loadImage("/picture/calcifier.png");
+  calcifierImg= loadImage("/picture/calcifier.png");//沉积
 
   // 创建两个图层
   bottomLayer = createGraphics(width, height);
