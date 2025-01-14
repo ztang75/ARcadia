@@ -10,3 +10,7 @@ Individual assignment for course Designing user interfaces with emerging technol
 4. Input "conda activate p310" in Anaconda Prompt.
 5. Input "python marker.py". If you have an external camera, input "python marker.py --cam 1".
 6. Open and run the processing files.
+
+## Game Rules
+In the beginning, the screen is a wasteland. On the tabletop game board, there are different boxes with CV markers representing different amenities, such as windmill, toxin scrubber, green house, water pump, and calcifier. each amenity requires the fulfillment of certain conditions for its use. When the CV marker is placed on the map, if the requirements are met, it will produce the corresponding effect. Players need to work hard to plan and improve the greening rate of the wasteland. When the greening rate reaches 70%, the game is successful. However, if the greening rate does not reach 70% and the player's CURRENCY is spent, the game is judged a failure.
+    ![cover](https://github.com/user-attachments/assets/dcc3d91d-3887-4f7c-9db0-fff2f35654e4)
